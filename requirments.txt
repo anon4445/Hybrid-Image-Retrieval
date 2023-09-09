@@ -1,0 +1,7 @@
+sentence-transformers 
+protobuf==3.20.0 --user
+faiss-cpu
+streamlit 
+torch
+numpy
+Pillow
